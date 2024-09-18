@@ -22,6 +22,8 @@
     - [X] Load Balancers
     - [X] Firewalls and Security Groups
     - [X] Routing tables
+    - [X] [Network interfaces](https://youtu.be/Zg8rMLE88mg?si=lQROznjhmz2uZFHe)
+    - [X] [Availability zones](https://youtu.be/yrOcNcVVTE4?si=2ckfZx81DlxtWYo-) and others... [global infrastructure overview](https://youtu.be/0hlZvybbaGk?si=X4nassXnPkhIPp3y)
 
 - [X] [Storage](https://youtu.be/btcbNARavUM?si=AY2tqveROCv3czn0)
     - [X] Object Storage (e.g., Amazon S3)
